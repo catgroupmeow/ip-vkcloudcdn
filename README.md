@@ -5,7 +5,6 @@
 **Актуальные рабочие IP-адреса CDN-сети VK Cloud**
 *Готовые к использованию адреса*
 
-![Platform](https://img.shields.io/badge/platform-windows%20|%20linux%20|%20macos-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
 
 </div>
